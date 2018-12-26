@@ -1,0 +1,114 @@
+.table{
+    border: none;
+    width: 100%;
+    height: 100%;
+}
+.col1{
+    width: 15%;
+    background-color: rgb(134, 179, 0);
+    color: bisque;
+}
+.col2{
+    width: 35%;
+    height: 100%;
+}
+.col3{
+    width: 50%;
+    background-color: rgb(245, 245, 240);
+    text-align: justify;
+}
+._img{
+    width: 500px;
+    height: 670px; 
+}
+._img1{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    border-style: solid 1px black;
+}
+._div1{
+    position:absolute;
+    top:30px;
+    
+}
+.h2_hr{
+   padding-top: 120px;
+   margin-left: 35%;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+}
+._hr1{
+    width: 50%;
+    margin-right: 10px;
+}
+._hr {
+    width: 60%;
+}
+.icon_color{
+    color: black;
+}
+.a_color{
+    color: black;
+}
+.p{
+    text-align: center;
+}
+._div2{
+    text-align: center;
+    padding-top: 200px;
+}
+._div3{
+    text-align: center;
+    padding-top: 70px;
+}
+._btn{
+    border: none;  
+    background-color: rgb(134, 179, 0);
+    color: bisque;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+}
+.btn:hover{
+    background-color: rgb(184, 184, 148);
+    width: 200px;
+    height: 40px;
+}
+._i{
+    margin-right: 15px;
+}
+._col3_div2{
+    position: absolute;
+    top: 585px;
+    background-color: rgb(140, 140, 140);
+    width: 615px;
+    height: 100px;
+}
+._col3_div1{
+position: absolute;
+top: 8px;
+margin-left: 40px;
+margin-right: 55px;
+}
+._h1{
+    color: rgb(134, 179, 0);
+}
+._tab{
+    line-height: 10px;
+    margin-left: 35px;
+    font-size: 18px;
+    color: bisque;
+    padding-top: 30px;
+}
+._td{
+    width: 150px;
+}
+._txt{
+    text-align: right;
+}
+._ii{
+    margin-right: 5px;
+}
